@@ -2,6 +2,9 @@
 
 iOS에서 이미지의 특정 영역을 선택한 색상으로 채우는 샘플 프로젝트입니다.
 
+<img width="1070" alt="image" src="https://github.com/user-attachments/assets/2e117656-7dd7-4d12-bf51-e552f1538391" />
+
+
 ## 주요 기능
 
 - 이미지의 특정 영역을 선택한 색상으로 채우기
